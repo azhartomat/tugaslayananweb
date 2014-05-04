@@ -11,8 +11,6 @@ for($x=0; $x<$count; $x++){
 	$newArray[$x]["title"] = $iArray[$x][0];
 	$newArray[$x]["link"] = $iArray[$x][1];
 	}
-
-
 ?>
 <!doctype html>
 <html lang="en">
